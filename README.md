@@ -1,2 +1,2 @@
 # ConverterNumberToTJCurrency
-Converting a Number to the Tajik Currency string 
+Convert a number to Tajik currency string
